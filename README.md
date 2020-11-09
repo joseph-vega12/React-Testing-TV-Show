@@ -1,6 +1,6 @@
 # React Testing TV Show
 
-## Advanced Web Applications ➡ Testing React
+### Advanced Web Applications ➡ Testing React
 
 ### Objectives
 
